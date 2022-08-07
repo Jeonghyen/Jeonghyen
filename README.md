@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-## Hi, I'm HyeIn✨
+  
+### Hi, I'm HyeIn :raised_hands:
+    
 
 <img src = "https://user-images.githubusercontent.com/100847017/182805963-d5721ce9-14ba-4d93-a748-537104b461be.jpg" width="30%" height="30%">
 

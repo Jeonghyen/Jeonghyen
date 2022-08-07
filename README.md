@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@hu3406">
    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>  <a href="www.notion.so/comet-lychee-046">
+</a>  <a href="https://www.notion.so/3b3f4e7bf0414cbe9fc53f6ed411ccfa">
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
